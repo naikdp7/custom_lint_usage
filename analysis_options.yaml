@@ -1,0 +1,4 @@
+include: package:custom_lints_dart/custom_lints_dart.dart
+analyzer:
+  plugins:
+    - custom_lint
